@@ -1,0 +1,49 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container {
+	    width:1140px;
+	    margin:0px auto;
+		box-sizing:border-box;
+		position:relative;
+		background-color:#bcddf32e;
+}
+.detail {
+	display:flex;
+	justify-content:flex-start;
+}
+.detail .name-email {
+	margin:15px 0px;
+}
+#fname {
+	padding:10px 90px 10px 0px;
+}
+#sname {
+    padding:10px 90px 10px 0px;
+	margin-left:40px;
+}
+#sub_name {
+	padding:10px 0px;
+	width:50%;
+	margin-bottom:15px;
+}
+#message {
+	padding:10px 0px;
+	width:50%;
+}
+button {
+	background:#1b41c7;
+	border:none;
+	padding:13px 33px;
+	position:absolute;
+	left:20%;
+	top:90%;
+	border-radius:7px;
+	margin-top:40px;
+}
+.send {
+     text-align:center;
+     color:white;
+}	 
