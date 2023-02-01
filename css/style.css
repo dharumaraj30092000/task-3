@@ -17,6 +17,9 @@
 .detail .name-email {
 	margin:15px 0px;
 }
+.subject-message {
+	padding-bottom: 20px;
+}
 #fname {
 	padding:10px 90px 10px 0px;
 }
